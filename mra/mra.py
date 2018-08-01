@@ -292,5 +292,7 @@ if __name__ == "__main__":
     else:
         train(args, net, sw)
 
+    print
+
 
 
